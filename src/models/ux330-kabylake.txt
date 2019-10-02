@@ -1,0 +1,9 @@
+NAME="UX330 (KabyLake)"
+CONFIGPLIST="config_ux330_kabylake.plist"
+CONFIGPARTS=()
+CONFIGMERGE=()
+ETPDPATCH=false
+PRODUCTNAME="MacBookPro14,1"
+AMLFILES=("SSDT-UX330-KabyLake" "SSDT-I2CBUS")
+AMLDIR="ux330-kabylake"
+ALCPLUGFIX=""
